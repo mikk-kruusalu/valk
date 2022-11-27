@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Kontroller-rescue")(type "Legacy")(uri "${KIPRJMOD}/Kontroller-rescue.lib")(options "")(descr ""))
+  (lib (name "HM-11")(type "Legacy")(uri "${KIPRJMOD}/Libraries/HM-11/HM-11.lib")(options "")(descr ""))
+)
